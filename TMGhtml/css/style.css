@@ -648,13 +648,10 @@ header {
 
 
 .footer {
-    width: 1189px;
-    height: 645px;
     background: #F8F8F8;
     border-radius: 50px;
     display: flex;
-    margin-bottom: 146px;
-    margin-top: 280px;
+    margin: 140px 0 0 0;
 }
 
 .footer1 {
