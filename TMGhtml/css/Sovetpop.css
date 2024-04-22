@@ -37,7 +37,7 @@ header {
     width: 70px;
     height: 60px;
     border: none;
-    background-image: url('img/Logo.png');
+    background-image: url('../img/Logo.png');
     background-size: cover;
 
 }
