@@ -4,8 +4,7 @@
     background: #F8F8F8;
     border-radius: 50px;
     display: flex;
-    margin-bottom: 146px;
-    margin-top: 280px;
+    margin-top: 100px;
 }
 
 .footer1 {
@@ -88,7 +87,7 @@
     font-weight: 600;
     font-size: 64px;
     color: #285CAB;
-    margin-top: 130px;
+    margin-top: 100px;
 
 }
 
@@ -100,7 +99,7 @@
     font-weight: 400;
     font-size: 24px;
     color: #191919;
-    margin-top: 166px;
+    margin-top: 130px;
     margin-left: 45px;
 }
 
@@ -112,11 +111,11 @@
     font-weight: 400;
     font-size: 18px;
     color: #191919;
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 .kivatext3 {
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .kivatext3 h1 {
@@ -148,11 +147,11 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .kivatext5 {
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .kivatext5 h1 {
