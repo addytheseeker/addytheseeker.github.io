@@ -4,8 +4,7 @@
     background: #F8F8F8;
     border-radius: 50px;
     display: flex;
-    margin-bottom: 146px;
-    margin-top: 280px;
+    margin: 100px 0;
 }
 
 .footer1 {
@@ -179,13 +178,15 @@ body {
 
 .information {
     display: block;
-    margin: 0 110px;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 160px;
 }
 
 
 .topinfo {
     display: flex;
-    margin: 100px 0 100px 0;
+    margin-left: 100px 0 100px 0;
 }
 
 .item1 {
@@ -241,8 +242,8 @@ body {
     text-decoration: underline;
 }
 
-.midinfo p {
-    margin: 24px 0 0 0;
+.midinfo li {
+    margin-bottom: 24px;
 }
 
 .acceptance {
